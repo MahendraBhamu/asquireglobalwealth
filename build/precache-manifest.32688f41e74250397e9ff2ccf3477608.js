@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "434ebdcb449c7b83bea93e7e1b9aa137",
+    "revision": "5b464bab5df5de7c622b6b2c7afee204",
     "url": "/asquireglobalwealth/index.html"
   },
   {
-    "revision": "7306d5f10e40c736660b",
+    "revision": "2bd9a70cc13e5c107089",
     "url": "/asquireglobalwealth/static/css/2.542b012e.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asquireglobalwealth/static/css/main.950a36ae.chunk.css"
   },
   {
-    "revision": "7306d5f10e40c736660b",
-    "url": "/asquireglobalwealth/static/js/2.d81ff609.chunk.js"
+    "revision": "2bd9a70cc13e5c107089",
+    "url": "/asquireglobalwealth/static/js/2.72aa32a9.chunk.js"
   },
   {
     "revision": "d4959622ae5f8b7c0216a3e3a3cd6803",
-    "url": "/asquireglobalwealth/static/js/2.d81ff609.chunk.js.LICENSE.txt"
+    "url": "/asquireglobalwealth/static/js/2.72aa32a9.chunk.js.LICENSE.txt"
   },
   {
     "revision": "b227bf7491b3a32f9e8d",
